@@ -12,9 +12,7 @@ Complete the following steps to use the project properly:
 4. Install the node dependencies `npm install`
 5. Move the example Environment file to `.env` that will be ignored by git and read by the express server `mv example.env .env`
 6. Edit the contents of the `package.json` to use NEW-PROJECT-NAME instead of `"name": "current-name",`
-7. Follow similar steps for the react-trelloyes repo if you would like to test the apps together. --if you prefer though, you can simply test the app in Postman--
-8. Start the React application on one localhost port and then this Express server application on another
-9. Test away!
+7. Test GET and POST requests using Postman
 
 ## Scripts
 
